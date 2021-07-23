@@ -8,3 +8,4 @@
 - 다시 풀어봐야 할 문제
   - ☆체육복(greedy, filter) : https://programmers.co.kr/learn/courses/30/lessons/42862
   - 신규아이디 추천(문자열처리, 정규식) : https://programmers.co.kr/learn/courses/30/lessons/72410
+  - ★소수찾기(소수,에라스테네스의 체) : https://programmers.co.kr/learn/courses/30/lessons/12921
