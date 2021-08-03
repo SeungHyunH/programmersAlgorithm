@@ -8,6 +8,7 @@
 - 다시 풀어봐야 할 문제
   - ☆체육복(greedy, filter) : https://programmers.co.kr/learn/courses/30/lessons/42862
   - 신규아이디 추천(문자열처리, 정규식) : https://programmers.co.kr/learn/courses/30/lessons/72410
-  - ★소수찾기(소수,에라스테네스의 체) : https://programmers.co.kr/learn/courses/30/lessons/12921
+  - ★소수찾기Lv1(소수,에라스테네스의 체) : https://programmers.co.kr/learn/courses/30/lessons/12921
   - ★최대공약수와최소공배수(GCD/LCM) : https://programmers.co.kr/learn/courses/30/lessons/12940
   - ★조이스틱(그리디) : https://programmers.co.kr/learn/courses/30/lessons/42860
+  - ☆소수찾기Lv2(소수,에라스테네스의 체, 완전탐색, deep copy) : https://programmers.co.kr/learn/courses/30/lessons/42839
