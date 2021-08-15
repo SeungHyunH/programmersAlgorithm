@@ -15,3 +15,4 @@
   - ★조이스틱(그리디) : https://programmers.co.kr/learn/courses/30/lessons/42860
   - ☆소수찾기Lv2(소수,에라스테네스의 체, 완전탐색, deep copy) : https://programmers.co.kr/learn/courses/30/lessons/42839
   - ★★가장큰정사각형찾기(DP):https://programmers.co.kr/learn/courses/30/lessons/12905)
+  - ☆ N개의 최소공배수(gcd,lcm) : https://programmers.co.kr/learn/courses/30/lessons/12953
