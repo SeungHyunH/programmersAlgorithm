@@ -18,3 +18,4 @@
   - ★★가장큰정사각형찾기(DP):https://programmers.co.kr/learn/courses/30/lessons/12905)
   - ☆ N개의 최소공배수(gcd,lcm) : https://programmers.co.kr/learn/courses/30/lessons/12953
   - ★★ 수식 최대화 (정규식,수식변환) : https://programmers.co.kr/learn/courses/30/lessons/67257
+  - 🔥🔥 순위 검색 (조합,이진탐색) : https://programmers.co.kr/learn/courses/30/lessons/72412
