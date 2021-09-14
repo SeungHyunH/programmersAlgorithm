@@ -1,4 +1,4 @@
-# [프로그래머스 Level2] 디스크컨트롤러
+# [프로그래머스 Level3] 디스크컨트롤러
 - https://programmers.co.kr/learn/courses/30/lessons/42627
 - SJF를 물어보는 문제인 것 같다(?)
   1. 우선 문제에서 요구한대로 작업요청순으로 정렬한다.
