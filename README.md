@@ -24,3 +24,4 @@
   - ☆ 쿼드압축 후 개수세기(쿼드트리) : https://programmers.co.kr/learn/courses/30/lessons/68936
   - ☆ 압축[3차] (LZW압축): https://programmers.co.kr/learn/courses/30/lessons/17684
   - ★ 가장 먼 노드(BFS) : https://programmers.co.kr/learn/courses/30/lessons/49189
+  - ★ 섬 연결하기(MST - 크루스칼) : https://programmers.co.kr/learn/courses/30/lessons/42861
