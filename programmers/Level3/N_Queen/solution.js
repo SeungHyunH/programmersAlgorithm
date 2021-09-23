@@ -4,7 +4,7 @@ function solution(n) {
   이전 퀸의 좌표(y,x) = j,queen[j]
   현재 퀸의 좌표(y,x) = queen.length,i
   대각선판단 : 현재 퀸 y좌표-이전 퀸들의 y좌표 = 현재 퀸 x좌표 - 이전 퀸들의 x좌표
-  */
+  */ 
   const dfs = (queen,cnt) =>{
     if(cnt === n){answer++;return;}
     for(let i = 0; i < n; i++){
