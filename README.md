@@ -28,3 +28,4 @@
   - ★★ 거스름 돈(DP) : https://programmers.co.kr/learn/courses/30/lessons/12907
   - ★★ 줄 서는 방법(규칙찾기) : https://programmers.co.kr/learn/courses/30/lessons/12936
   - ★★ 하노이의 탑(하노이) : https://programmers.co.kr/learn/courses/30/lessons/12946
+  - ★★ 순위(플로이드 와샬) : https://programmers.co.kr/learn/courses/30/lessons/49191
