@@ -31,3 +31,4 @@
   - ★★ 순위(플로이드 와샬) : https://programmers.co.kr/learn/courses/30/lessons/49191
   - ★ 위클리챌린지7주차_입실퇴실(큐/투포인터) : https://programmers.co.kr/learn/courses/30/lessons/86048
   - 🔥🔥 표 편집(연결리스트/스택) : https://programmers.co.kr/learn/courses/30/lessons/81303
+  - 🔥🔥🔥🔥 위클리챌린지3주차_퍼즐조각채우기(행렬회전/좌표비교/완전탐색) : https://programmers.co.kr/learn/courses/30/lessons/84021
