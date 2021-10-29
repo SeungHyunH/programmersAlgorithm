@@ -35,3 +35,4 @@
   - 🔥🔥🔥🔥 입국심사 (이분탐색) : https://programmers.co.kr/learn/courses/30/lessons/43238
   - ★★ 경주로 건설(BFS/DP) : https://programmers.co.kr/learn/courses/30/lessons/43238
   - 🔥 매칭점수(문자열) : https://programmers.co.kr/learn/courses/30/lessons/42893
+  - 🔥🔥🔥🔥블록 이동하기(BFS) : https://programmers.co.kr/learn/courses/30/lessons/60063
