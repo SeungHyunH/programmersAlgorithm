@@ -37,3 +37,4 @@
   - 🔥 매칭점수(문자열) : https://programmers.co.kr/learn/courses/30/lessons/42893
   - 🔥🔥🔥🔥블록 이동하기(BFS) : https://programmers.co.kr/learn/courses/30/lessons/60063
   - 🔥🔥🔥🔥파괴되지 않은 건물(누적합) : https://programmers.co.kr/learn/courses/30/lessons/92344
+  - 🔥🔥🔥🔥사라지는 발판(완전탐색) : https://programmers.co.kr/learn/courses/30/lessons/92345?language=javascript
