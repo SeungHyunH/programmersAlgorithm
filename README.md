@@ -38,3 +38,4 @@
   - 🔥🔥🔥🔥블록 이동하기(BFS) : https://programmers.co.kr/learn/courses/30/lessons/60063
   - 🔥🔥🔥🔥파괴되지 않은 건물(누적합) : https://programmers.co.kr/learn/courses/30/lessons/92344
   - 🔥🔥🔥🔥사라지는 발판(완전탐색) : https://programmers.co.kr/learn/courses/30/lessons/92345?language=javascript
+  - ★★ 올바른 괄호의 갯수(카탈란 수) : https://programmers.co.kr/learn/courses/30/lessons/12929
